@@ -1,0 +1,181 @@
+
+
+.img-homepage{
+
+        background-image: url("../imagenes/1.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 350px;
+        background-position: center;
+        text-align: center;
+        font-size: 30px;
+        color: seashell;
+        margin: 0;
+
+           }
+.bottom-background-index{
+
+    margin: 0px;
+    padding: 35PX;
+    background-color: black;
+    
+}
+
+.navbar-inverse {
+                background-color: BLACK;
+                border-color: GRAY;
+                BORDER-SPACING: 2PX;
+    BORDER-RADIUS: 0PX 0PX -1PX -4PX;
+                margin: 0px;
+
+}
+.paragraph-index {
+
+                text-align:center;
+                
+                margin: 0px 150px 0px 150px;
+            }
+
+element.style {
+    FONT-SIZE: 24PX;
+    FONT-WEIGHT: BOLD;
+}
+
+.text-paragraph{
+        margin: 150px;
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 17px;
+        line-height: 1.42857143;
+        color: #333;
+        text-align: center;
+}
+
+
+.img-craft{
+        background-image: url("../imagenes/craft\ beer\ 1.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;    
+        height: 350px;
+        background-position: bottom;
+        font-size: 30px;
+        color: seashell;
+        margin: 0;
+        text-align: center;
+
+}
+.titles-craft,h2,img{
+       font-size: 60px;
+        font-family: inherit;
+        font-weight: 500;
+        line-height: 1.1;
+        color: inherit;
+        text-align: center;
+}
+
+.same-pixels{
+
+        WIDTH: 700px;
+        HEIGHT: 400PX;
+    }
+
+.title-types-of-creeber{
+        font-size: 64px;
+        font-size: 64px;
+        background-color: black;
+        color: rgb(255, 255, 255);
+        margin: -7px 0px 0px 0px;
+    }
+
+#text-center,h1,h2{
+
+        text-align: center;
+        justify-items: center;
+        
+    }
+p #text-center,p {
+        text-align: right;
+        flex-wrap: wrap;
+    }
+.title-types-of-creeber{
+            text-align: center;
+            background-color: black;
+            color: white;
+            
+    }
+
+
+.contact-input,input{
+    
+    align-items: center;
+}
+
+.fondo-de-contactos
+{
+
+background-image: url("https://bodegadecervezas.files.wordpress.com/2014/01/siete-barrios-cerveza-artesanal-mexico.jpg");
+background-position: center;
+justify-content:center;
+align-items:center
+
+}
+
+.services-img
+{
+    background-image: url(../imagenes/fondo\ de\ contactos.jpg);
+    width: 50%;
+    height: 50%;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.title-services{
+margin: 0px;
+font-size: 85px;
+
+}
+.services{
+    background-color: black;
+    margin: 14px 17px 0px 28px;
+    font-size: 23px;
+    font-family: cursive;
+   color: white;
+   text-align: center;
+   
+
+}
+.btn-outline-dark{
+
+    border-radius: 35px;
+    border-color: slategray;
+    color: black;
+    padding: 7px;
+    margin: 14px;
+}
+
+.btn-outline-dar:hover{
+
+    color: darkgray;
+}
+
+.background-store{
+    background-color: black;
+    color: white;
+
+
+}
+.input-store{
+    text-align: center;
+    float:center;
+    font-size: 26px;
+}
+.btn-outline-dark {
+    border-radius: 35px;
+    border-color: lightgrey;
+    color: white;
+    padding: 7px;
+    margin: 14px;
+    background: black;
+    font-size: 18px;
+}
